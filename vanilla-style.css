@@ -1,0 +1,45 @@
+body {
+    background-image: url(public/deadpool-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    margin: 0px;
+    font-size: 42px;
+}
+
+h2 {
+    margin: 0px;
+    font-size: 30px;
+}
+
+h4 {
+    margin: 0px;
+    font-size: 24px;
+}
+
+#cv-text {
+    color: aliceblue;
+    width: 50%;
+    margin-left: 100px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-bottom: 40px;
+}
+
+#heading {
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.list-items {
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.150), rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
+    padding: 20px 20px 10px 20px;
+    margin-top: 20px;
+    box-shadow: -10px 10px 20px #0000006c;
+}
